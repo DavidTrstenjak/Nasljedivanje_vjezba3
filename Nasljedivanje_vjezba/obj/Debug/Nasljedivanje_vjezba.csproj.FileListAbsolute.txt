@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\Nasljedivanje_vjezba\Nasljedivanje_vjezba\bin\Debug\Nasljedivanje_vjezba.exe.config
+C:\Users\ucenik\source\repos\Nasljedivanje_vjezba\Nasljedivanje_vjezba\bin\Debug\Nasljedivanje_vjezba.exe
+C:\Users\ucenik\source\repos\Nasljedivanje_vjezba\Nasljedivanje_vjezba\bin\Debug\Nasljedivanje_vjezba.pdb
+C:\Users\ucenik\source\repos\Nasljedivanje_vjezba\Nasljedivanje_vjezba\obj\Debug\Nasljedivanje_vjezba.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Nasljedivanje_vjezba\Nasljedivanje_vjezba\obj\Debug\Nasljedivanje_vjezba.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\Nasljedivanje_vjezba\Nasljedivanje_vjezba\obj\Debug\Nasljedivanje_vjezba.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Nasljedivanje_vjezba\Nasljedivanje_vjezba\obj\Debug\Nasljedivanje_vjezba.exe
+C:\Users\ucenik\source\repos\Nasljedivanje_vjezba\Nasljedivanje_vjezba\obj\Debug\Nasljedivanje_vjezba.pdb
